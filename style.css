@@ -1,0 +1,32 @@
+<style>
+fieldset{
+border: outset;
+border-radius: 1px;
+    color: green
+}
+button{
+    border-radius: 5px;
+}
+img {
+    margin: 15px;
+    height: 5rem;
+    width: 5rem;
+    max-width: 100%;
+}
+ button{
+    background-color: firebrick;
+    width: 5.0rem;
+    height: 2rem;
+ }
+
+fieldset {
+    font-family: display: shape-outside:
+}
+img {
+    width: 200px;
+    height: 100px;
+    background-position: center;
+    background-size: contain;
+}
+
+    </style>
