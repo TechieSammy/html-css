@@ -1,0 +1,82 @@
+*{
+    padding: 5;
+    margin: 5;
+    background-color: gainsboro;
+}
+.first{
+   display: flex;
+   gap: 300px;
+   list-style: none;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+h2{
+        font-family: "Roboto", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+}
+h3{
+
+        font-family: "Roboto", sans-serif;
+        font-weight: 100;
+        font-style: normal;
+}
+ol{
+    display: flex;
+    list-style: none;
+    gap: 95px;
+}
+img{
+    width: 200px;
+    height: 100px;
+    display: flex;
+    align-items: end;
+    
+}
+button{
+    background-color: black;
+    color: white;
+    padding: 7px;
+    border-radius: 10px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+
+}
+.Pictures{
+    display: flex;
+    gap: 50px;
+}
+.You{
+    width: 250px;
+    height: 250px;
+    border-radius: 85px;
+}
+.yes{
+    width: 20rem;
+    height: 30rem;
+    border-radius: 105px;
+    border-top-right-radius: 300px;
+    border-top-left-radius: 300px;
+}
+.May{
+    display: flex;
+    gap: 100px;
+    width: fit-content;
+}
+.tp{
+    border-radius: 90px;
+    margin-left: 10rem;  
+}
+.tpm{
+    width: fit-content;
+    display: flex;
+    gap: 50px;
+}
+.tpp{
+    display: flex;
+    gap: 10px;    
+    border-radius: 150px; 
+}
+
